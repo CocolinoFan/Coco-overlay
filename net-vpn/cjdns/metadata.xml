@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>arvamircea@gmail.com</email>
+		<name>CocolinoFan</name>
+	</maintainer>
+	<longdescription lang="en">
+		Cjdns implements an encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing
+	</longdescription>
+	<upstream>
+		<remote-id type="github">cjdelisle/cjdns</remote-id>
+		<bugs-to>https://github.com/hyperboria/bugs/issues</bugs-to>
+	</upstream>
+</pkgmetadata>
